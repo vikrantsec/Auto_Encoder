@@ -7,3 +7,5 @@ In this project, auto encoder has been used to re-construct an image from an inp
 dimensions.
 This tool uses the auto encoder to do so, where first the input image will be encoded to get the 
 important feature, and then it will be decoded again to extract the real image.
+
+run this tool with the cifar-10 datasets in the same folder as the python script.
