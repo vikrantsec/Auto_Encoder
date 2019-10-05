@@ -9,3 +9,4 @@ This tool uses the auto encoder to do so, where first the input image will be en
 important feature, and then it will be decoded again to extract the real image.
 
 run this tool with the cifar-10 datasets in the same folder as the python script.
+But, First you have to download the cifar-10 dataset.
